@@ -11,8 +11,6 @@
 ---
 
 ## 🚀 Quick Links
-- Portfolio / Projects: `https://github.com/your-username`  
-  *(replace with your portfolio or top project link)*
 - Email: `sabdo5405@gmail.com` 
 
 ---
