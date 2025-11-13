@@ -26,6 +26,32 @@
 
     <!-- soft colorful background blobs -->
     <g opacity="0.18">
+      <ellipse cx="180" cy="60" rx="200" ry="50" fill="url(#g)"/><!-- README.md for Abdelrahman saad -->
+<!-- Place this file at the root of your GitHub profile repo to show it on your profile -->
+
+<!-- Animated header using inline SVG (works on GitHub) -->
+<p align="center">
+  <svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+    <defs>
+      <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
+        <stop offset="0%" stop-color="#ff6b6b">
+          <animate attributeName="offset" values="0;1;0" dur="8s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="50%" stop-color="#6bffb0">
+          <animate attributeName="offset" values="0.5;1.5;0.5" dur="8s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="100%" stop-color="#6b8bff">
+          <animate attributeName="offset" values="1;2;1" dur="8s" repeatCount="indefinite"/>
+        </stop>
+      </linearGradient>
+      <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="10" result="b"/>
+        <feBlend in="SourceGraphic" in2="b" mode="normal"/>
+      </filter>
+    </defs>
+
+    <!-- soft colorful background blobs -->
+    <g opacity="0.18">
       <ellipse cx="180" cy="60" rx="200" ry="50" fill="url(#g)"/>
       <ellipse cx="600" cy="40" rx="300" ry="70" fill="url(#g)"/>
       <ellipse cx="1020" cy="70" rx="180" ry="50" fill="url(#g)"/>
@@ -62,9 +88,9 @@
 # Hi there 👋 I'm **Abdelrahman saad**
 
 - 🎓 **Computer Science graduate**
-- 💡 **I love learning new things** — always exploring web development, algorithms, and practical projects.
-- 🔭 I’m currently building projects to practice modern JavaScript, Python, and cloud deploys.
-- 🌱 I enjoy learning: Frontend frameworks, data structures, and tools that make development delightful.
+- 💡 **I love learning new things** — always exploring new languages, algorithms, and practical projects.
+- 🔭 I’m currently building projects to practice **C#**, **C++**, and **Java**, and learning about software architecture and deployments.
+- 🌱 I enjoy improving in: data structures, object-oriented design, and competitive programming.
 
 ---
 
@@ -78,10 +104,10 @@
 ## 🧰 Tech & Tools
 Here are some technologies I often use or explore:
 
-- Languages: `Python` · `JavaScript` · `C`  
-- Web: `HTML` · `CSS` · `React`  
-- Databases & Cloud: `MySQL` · `MongoDB` · `Firebase`  
-- Tools: `Git` · `GitHub` · `VS Code`
+- Languages: `C#` · `C++` · `Java`  
+- Web & Desktop: `HTML` · `CSS` · `.NET`  
+- Databases & Tools: `MySQL` · `SQLite` · `Git`  
+- Tools & IDEs: `Visual Studio` · `VS Code` · `CLion`
 
 > Tip: replace or expand the list above with the specific tech you use.
 
@@ -91,16 +117,3 @@ Here are some technologies I often use or explore:
 You can add these images (automatically generated) to show activity and top-langs:
 
 
-**abdelrahman1511/abdelrahman1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
