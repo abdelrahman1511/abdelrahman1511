@@ -32,9 +32,28 @@ I have worked on projects that served thousands of users, built scalable applica
 
 ## 📊 GitHub Stats
 
+## 🧠 My Programming Skills
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefdergham&layout=compact&theme=dark" alt="Top Languages"/>
+  
+**C#**
+<br>
+<img src="https://progress-bar.dev/90/?title=C%23&width=300&color=512BD4&suffix=%25" />
+
+**Java**
+<br>
+<img src="https://progress-bar.dev/85/?title=Java&width=300&color=007396&suffix=%25" />
+
+**JavaScript**
+<br>
+<img src="https://progress-bar.dev/75/?title=JavaScript&width=300&color=F7DF1E&suffix=%25" />
+
+**C++**
+<br>
+<img src="https://progress-bar.dev/60/?title=C%2B%2B&width=300&color=00599C&suffix=%25" />
+
 </div>
+
 
 
 
