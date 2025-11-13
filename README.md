@@ -35,24 +35,14 @@ I have worked on projects that served thousands of users, built scalable applica
 ## 🧠 My Programming Skills
 
 <div align="center">
-  
-**C#**
-<br>
-<img src="https://progress-bar.dev/90/?title=C%23&width=300&color=512BD4&suffix=%25" />
 
-**Java**
-<br>
-<img src="https://progress-bar.dev/85/?title=Java&width=300&color=007396&suffix=%25" />
-
-**JavaScript**
-<br>
-<img src="https://progress-bar.dev/75/?title=JavaScript&width=300&color=F7DF1E&suffix=%25" />
-
-**C++**
-<br>
-<img src="https://progress-bar.dev/60/?title=C%2B%2B&width=300&color=00599C&suffix=%25" />
+![C#](https://img.shields.io/badge/C%23-90%25-512BD4?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-85%25-007396?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-60%25-00599C?style=for-the-badge)
 
 </div>
+
 
 
 
